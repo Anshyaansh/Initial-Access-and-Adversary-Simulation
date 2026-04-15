@@ -1,0 +1,55 @@
+{
+  "domain": "initech-solutions.lab",
+  "total_employees_checked": 15,
+  "employees_found_in_breaches": 8,
+  "breach_records": [
+    {
+      "email": "jsmith@initech-solutions.lab",
+      "breaches": ["LinkedIn-2012", "Adobe-2013", "Collection1-2019"],
+      "passwords_found": ["Initech2019!", "jsmith_pass1"],
+      "last_breach_date": "2019-01-01"
+    },
+    {
+      "email": "sjones@initech-solutions.lab",
+      "breaches": ["Dropbox-2012"],
+      "passwords_found": [],
+      "last_breach_date": "2012-07-01"
+    },
+    {
+      "email": "mjohnson@initech-solutions.lab",
+      "breaches": ["LinkedIn-2012", "MyFitnessPal-2018"],
+      "passwords_found": ["MikeJ2018#", "Chicago2017!"],
+      "last_breach_date": "2018-03-01"
+    },
+    {
+      "email": "rwilson@initech-solutions.lab",
+      "breaches": ["Adobe-2013", "Canva-2019", "Collection1-2019"],
+      "passwords_found": ["R0bertW!", "Wilson2019$"],
+      "last_breach_date": "2019-01-01"
+    },
+    {
+      "email": "jmartinez@initech-solutions.lab",
+      "breaches": ["LinkedIn-2012"],
+      "passwords_found": ["jenny2012"],
+      "last_breach_date": "2012-05-05"
+    },
+    {
+      "email": "danderson@initech-solutions.lab",
+      "breaches": ["Zynga-2019", "Collection1-2019"],
+      "passwords_found": ["P@ssw0rd1!", "david2019"],
+      "last_breach_date": "2019-01-01"
+    },
+    {
+      "email": "clee@initech-solutions.lab",
+      "breaches": ["MyFitnessPal-2018", "Canva-2019"],
+      "passwords_found": ["DevOps2019!", "Chris!234"],
+      "last_breach_date": "2019-05-24"
+    },
+    {
+      "email": "mrodriguez@initech-solutions.lab",
+      "breaches": ["Adobe-2013"],
+      "passwords_found": ["DBadmin1!"],
+      "last_breach_date": "2013-10-04"
+    }
+  ]
+}

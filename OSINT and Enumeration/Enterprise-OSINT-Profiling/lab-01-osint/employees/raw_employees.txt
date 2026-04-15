@@ -1,0 +1,15 @@
+John Smith, Chief Executive Officer
+Sarah Jones, Chief Information Security Officer
+Michael Johnson, VP of Engineering
+Emily Davis, Director of IT Operations
+Robert Wilson, Senior Systems Administrator
+Jennifer Martinez, Cloud Engineer
+David Anderson, Software Developer
+Lisa Thompson, Human Resources Manager
+James Garcia, Network Engineer
+Amanda Brown, Help Desk Analyst
+Christopher Lee, DevOps Engineer
+Michelle Rodriguez, Database Administrator
+Daniel Taylor, Security Analyst
+Karen White, Financial Controller
+Steven Clark, Junior Developer

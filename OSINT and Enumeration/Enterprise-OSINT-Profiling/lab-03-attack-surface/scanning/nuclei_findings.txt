@@ -1,0 +1,14 @@
+[CRITICAL] [CVE-2023-22515] Confluence Authentication Bypass - https://confluence.initech-solutions.lab
+[CRITICAL] [kubernetes-dashboard-unauthenticated] Unauthenticated K8s Dashboard - https://k8s-dashboard.initech-solutions.lab
+[HIGH] [grafana-default-credentials] Default admin:admin - https://grafana.initech-solutions.lab
+[HIGH] [jenkins-unauthenticated] Unauthenticated Jenkins Access - https://jenkins.initech-solutions.lab/script
+[HIGH] [mysql-external] MySQL Accessible Externally - 203.0.113.50:3306
+[HIGH] [php-5.6-eol] End-of-Life PHP Version - http://old-portal.initech-solutions.lab
+[HIGH] [wordpress-outdated] WordPress 6.2 (outdated) - https://blog.initech-solutions.lab
+[MEDIUM] [swagger-api-exposed] Swagger API Documentation Exposed - https://api.initech-solutions.lab/swagger/
+[MEDIUM] [gitlab-public-registration] GitLab Public Registration Enabled - https://gitlab.initech-solutions.lab
+[MEDIUM] [gitea-public-repos] Public Repository Listing - https://git.initech-solutions.lab/explore/repos
+[MEDIUM] [prometheus-unauthenticated] Unauthenticated Prometheus - https://monitoring.initech-solutions.lab
+[LOW] [server-status-exposed] Apache Server Status - http://old-portal.initech-solutions.lab/server-status
+[LOW] [directory-listing] FTP Directory Listing - http://ftp.initech-solutions.lab
+[INFO] [tech-detect] Multiple technology versions identified across all hosts

@@ -1,0 +1,16 @@
+Name,Title,Email,Department,Priority,Breach_Exposure,Notes
+John Smith,CEO,jsmith@initech-solutions.lab,Executive,Medium,Yes - 3 breaches,Public-facing leader
+Sarah Jones,CISO,sjones@initech-solutions.lab,Security,High,Yes - 1 breach,Security decision maker
+Michael Johnson,VP Engineering,mjohnson@initech-solutions.lab,Engineering,High,Yes - 2 breaches,Technical leadership
+Emily Davis,Dir IT Operations,edavis@initech-solutions.lab,IT,High,No,IT infrastructure owner
+Robert Wilson,Sr Sysadmin,rwilson@initech-solutions.lab,IT,Critical,Yes - 3 breaches,Domain admin likely
+Jennifer Martinez,Cloud Engineer,jmartinez@initech-solutions.lab,Engineering,Critical,Yes - 1 breach,AWS/Azure access
+David Anderson,Software Developer,danderson@initech-solutions.lab,Engineering,Medium,Yes - 2 breaches,Code repository access
+Lisa Thompson,HR Manager,lthompson@initech-solutions.lab,HR,Medium,No,Often handles external attachments (Phishing target)
+James Garcia,Network Engineer,jgarcia@initech-solutions.lab,IT,High,No,Network infrastructure access
+Amanda Brown,Help Desk Analyst,abrown@initech-solutions.lab,IT,Medium,No,Has reset password rights
+Christopher Lee,DevOps Engineer,clee@initech-solutions.lab,Engineering,Critical,Yes - 2 breaches,CI/CD and pipeline access
+Michelle Rodriguez,Database Administrator,mrodriguez@initech-solutions.lab,IT,High,Yes - 1 breach,DB cluster access
+Daniel Taylor,Security Analyst,dtaylor@initech-solutions.lab,Security,High,No,SOC team member
+Karen White,Financial Controller,kwhite@initech-solutions.lab,Finance,Medium,No,Access to financial records
+Steven Clark,Junior Developer,sclark@initech-solutions.lab,Engineering,Low,No,Standard dev access

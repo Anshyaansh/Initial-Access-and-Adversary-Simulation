@@ -1,0 +1,26 @@
+=== Cloud Enumeration Results: Initech Solutions ===
+
+[AWS S3 Buckets]
+  OPEN (Public Read): initech-solutions-backups.s3.amazonaws.com
+    - Contains: Database backups, configuration files
+    - Risk: CRITICAL
+
+  EXISTS (Access Denied): initech-solutions-assets.s3.amazonaws.com
+  EXISTS (Access Denied): initech-solutions-prod.s3.amazonaws.com
+
+  OPEN (Listing Allowed): initech-dev-artifacts.s3.amazonaws.com
+    - Contains: Build artifacts, Docker images, CI/CD configs
+    - Risk: HIGH
+
+[Azure Blob Storage]
+  EXISTS: initechsolutions.blob.core.windows.net
+    - Container 'public' accessible without authentication
+    - Contains: Marketing materials, some internal documents
+    - Risk: MEDIUM
+
+[Azure Websites]
+  EXISTS: initech-dev.azurewebsites.net (Development application)
+  EXISTS: initech-staging.azurewebsites.net (Staging application)
+
+[GCP]
+  No GCP resources identified
